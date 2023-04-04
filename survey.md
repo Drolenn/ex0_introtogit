@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Ireland Green
+Favorite food: Weiner Schnitzel
+Favorite musician/band: Ofir Gelber
+Favorite movie: Elad's Tutorial 1 Recording
+Requested grade in the course: 99.99
